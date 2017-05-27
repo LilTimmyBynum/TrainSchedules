@@ -1,0 +1,29 @@
+body {
+    font-family: 'Macondo', cursive;
+    font-size: 18px;
+    line-height: 34px;
+    color: #000000;
+    background: radial-gradient(black 15%, transparent 16%) 0 0, radial-gradient(black 15%, transparent 16%) 8px 8px, radial-gradient(rgba(255, 255, 255, .1) 15%, transparent 20%) 0 1px, radial-gradient(rgba(255, 255, 255, .1) 15%, transparent 20%) 8px 9px;
+    background-color: #282828;
+    background-size: 16px 16px;
+}
+
+.myJumbotron {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+.myContainer {
+    padding-top: 15px;
+}
+
+.myPanel {
+    padding-left: 10px;
+    background-color: #808080;
+    color: #FFFFFF;
+}
+
+.myCTxt {
+    text-align: center;
+}
