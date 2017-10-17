@@ -7,3 +7,5 @@ Technologies used:
 - Moment.js
 - Bootstrap
 - Firebase
+
+You can run this app using the link: https://liltimmybynum.github.io/TrainSchedules/
